@@ -1,2 +1,3 @@
 zone "www.seznam.cz" { type master; notify no; file "null.zone.file"; };
+zone "101com.com" { type master; notify no; file "null.zone.file"; };
 
