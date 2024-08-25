@@ -1,2 +1,2 @@
-seznam.cz
+zone "www.seznam.cz" { type master; notify no; file "null.zone.file"; };
 
